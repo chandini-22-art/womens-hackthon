@@ -1,0 +1,56 @@
+{
+  "widget": "Cost Details",
+  "currency": "INR",
+  "costs": {
+    "raw_material_per_unit": 0,
+    "entrepreneur_labour_hours": 0,
+    "entrepreneur_labour_rate_per_hour": 0,
+    "helper_labour_per_unit": 0,
+    "packaging_per_unit": 0,
+    "electricity_fuel_water_per_unit": 0,
+    "transport_per_unit": 0,
+    "storage_per_unit": 0,
+    "spoilage_percentage": 0,
+    "platform_commission_percentage": 0,
+    "intermediary_commission_percentage": 0,
+    "payment_fee_per_unit": 0,
+    "other_variable_cost_per_unit": 0,
+    "monthly_fixed_cost": 0
+  },
+  "pricing": {
+    "selling_price_per_unit": 0
+  },
+  "calculations": {
+    "entrepreneur_labour_cost": 0,
+    "spoilage_cost": 0,
+    "commission_cost": 0,
+    "total_variable_cost_per_unit": 0,
+    "contribution_per_unit": 0,
+    "gross_margin_percentage": 0,
+    "break_even_units": 0,
+    "break_even_revenue": 0
+  },
+  "scenario_analysis": {
+    "conservative": {
+      "units_sold": 0,
+      "revenue": 0,
+      "variable_cost": 0,
+      "fixed_cost": 0,
+      "profit_loss": 0
+    },
+    "expected": {
+      "units_sold": 0,
+      "revenue": 0,
+      "variable_cost": 0,
+      "fixed_cost": 0,
+      "profit_loss": 0
+    },
+    "optimistic": {
+      "units_sold": 0,
+      "revenue": 0,
+      "variable_cost": 0,
+      "fixed_cost": 0,
+      "profit_loss": 0
+    }
+  }
+}
