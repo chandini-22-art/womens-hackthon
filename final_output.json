@@ -1,0 +1,33 @@
+{
+  "rural_venture_navigator": {
+    "entrepreneur": {},
+    "opportunity": {},
+    "customer_analysis": {},
+    "demand_validation": {},
+    "unit_economics": {},
+    "break_even": {},
+    "route_to_market": {},
+    "risk_analysis": {},
+    "support_pathway": {},
+    "evidence": {
+      "facts": [],
+      "verified_information": [],
+      "assumptions": [],
+      "calculations": [],
+      "missing_evidence": []
+    },
+    "decision": {
+      "type": "",
+      "confidence": "",
+      "reasoning": []
+    },
+    "decision_card": {},
+    "action_plan": {
+      "day_1_to_7": [],
+      "day_8_to_14": [],
+      "day_15_to_21": [],
+      "day_22_to_30": []
+    },
+    "venture_coach": {}
+  }
+}
