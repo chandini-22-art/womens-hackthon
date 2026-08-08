@@ -1,0 +1,58 @@
+{
+  "widget": "AI Analysis and Decision Engine",
+  "input_fields": {
+    "entrepreneur_profile": {},
+    "business_idea": "",
+    "cost_details": {},
+    "selling_price": 0,
+    "target_customers": "",
+    "language_preference": "",
+    "digital_access": "",
+    "main_challenge": ""
+  },
+  "analysis": {
+    "opportunity_discovery": {
+      "product_or_service": "",
+      "target_customer": "",
+      "customer_problem": "",
+      "local_advantage": "",
+      "opportunity_statement": ""
+    },
+    "demand_validation": {
+      "existing_evidence": [],
+      "demand_strength": "",
+      "paid_demand_evidence": "",
+      "recommended_test": "",
+      "test_duration_days": 0,
+      "target_customers_to_contact": 0,
+      "minimum_successful_orders": 0
+    },
+    "customer_segments": [],
+    "competitor_analysis": [],
+    "route_to_market": [],
+    "recommended_channel": "",
+    "risks": [],
+    "support_needs": []
+  },
+  "evidence_classification": {
+    "entrepreneur_facts": [],
+    "verified_external_information": [],
+    "assumptions": [],
+    "calculations": [],
+    "missing_evidence": []
+  },
+  "decision": {
+    "recommendation": "",
+    "allowed_values": [
+      "PROCEED",
+      "PILOT",
+      "MODIFY",
+      "COLLABORATE",
+      "TEST FURTHER",
+      "PAUSE"
+    ],
+    "confidence": "",
+    "reasoning": [],
+    "most_important_next_step": ""
+  }
+}
