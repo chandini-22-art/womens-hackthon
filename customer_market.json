@@ -1,0 +1,71 @@
+{
+  "widget": "Customer and Demand Analysis",
+  "target_customer": "",
+  "possible_customer_segments": [
+    {
+      "segment": "Village households",
+      "demand_potential": "",
+      "willingness_to_pay": "",
+      "purchase_frequency": "",
+      "competition": "",
+      "logistics": "",
+      "payment_risk": ""
+    },
+    {
+      "segment": "Nearby towns",
+      "demand_potential": "",
+      "willingness_to_pay": "",
+      "purchase_frequency": "",
+      "competition": "",
+      "logistics": "",
+      "payment_risk": ""
+    },
+    {
+      "segment": "Retailers",
+      "demand_potential": "",
+      "willingness_to_pay": "",
+      "purchase_frequency": "",
+      "competition": "",
+      "logistics": "",
+      "payment_risk": ""
+    },
+    {
+      "segment": "Institutions",
+      "demand_potential": "",
+      "willingness_to_pay": "",
+      "purchase_frequency": "",
+      "competition": "",
+      "logistics": "",
+      "payment_risk": ""
+    },
+    {
+      "segment": "SHG/Cooperative/Aggregator",
+      "demand_potential": "",
+      "willingness_to_pay": "",
+      "purchase_frequency": "",
+      "competition": "",
+      "logistics": "",
+      "payment_risk": ""
+    },
+    {
+      "segment": "WhatsApp/Social Commerce",
+      "demand_potential": "",
+      "willingness_to_pay": "",
+      "purchase_frequency": "",
+      "competition": "",
+      "logistics": "",
+      "payment_risk": ""
+    },
+    {
+      "segment": "Online Marketplace",
+      "demand_potential": "",
+      "willingness_to_pay": "",
+      "purchase_frequency": "",
+      "competition": "",
+      "logistics": "",
+      "payment_risk": ""
+    }
+  ],
+  "recommended_customer": "",
+  "reason": ""
+}
