@@ -1,0 +1,77 @@
+{
+  "widget": "Route-to-Market Analyzer",
+  "channels": [
+    {
+      "name": "Village Sales",
+      "demand_potential": 0,
+      "margin": 0,
+      "volume": 0,
+      "logistics_difficulty": 0,
+      "payment_risk": 0,
+      "digital_requirement": 0,
+      "intermediary_dependence": 0
+    },
+    {
+      "name": "Nearby Town",
+      "demand_potential": 0,
+      "margin": 0,
+      "volume": 0,
+      "logistics_difficulty": 0,
+      "payment_risk": 0,
+      "digital_requirement": 0,
+      "intermediary_dependence": 0
+    },
+    {
+      "name": "Retailers",
+      "demand_potential": 0,
+      "margin": 0,
+      "volume": 0,
+      "logistics_difficulty": 0,
+      "payment_risk": 0,
+      "digital_requirement": 0,
+      "intermediary_dependence": 0
+    },
+    {
+      "name": "Institutions",
+      "demand_potential": 0,
+      "margin": 0,
+      "volume": 0,
+      "logistics_difficulty": 0,
+      "payment_risk": 0,
+      "digital_requirement": 0,
+      "intermediary_dependence": 0
+    },
+    {
+      "name": "SHG/Cooperative/Aggregator",
+      "demand_potential": 0,
+      "margin": 0,
+      "volume": 0,
+      "logistics_difficulty": 0,
+      "payment_risk": 0,
+      "digital_requirement": 0,
+      "intermediary_dependence": 0
+    },
+    {
+      "name": "WhatsApp/Social Commerce",
+      "demand_potential": 0,
+      "margin": 0,
+      "volume": 0,
+      "logistics_difficulty": 0,
+      "payment_risk": 0,
+      "digital_requirement": 0,
+      "intermediary_dependence": 0
+    },
+    {
+      "name": "Online Marketplace",
+      "demand_potential": 0,
+      "margin": 0,
+      "volume": 0,
+      "logistics_difficulty": 0,
+      "payment_risk": 0,
+      "digital_requirement": 0,
+      "intermediary_dependence": 0
+    }
+  ],
+  "recommended_channel": "",
+  "recommendation_reason": ""
+}
