@@ -1,0 +1,48 @@
+{
+  "widget": "Risk and Resilience Analyzer",
+  "risks": [
+    {
+      "category": "Market",
+      "risk": "",
+      "likelihood": "LOW",
+      "impact": "LOW",
+      "mitigation": ""
+    },
+    {
+      "category": "Financial",
+      "risk": "",
+      "likelihood": "LOW",
+      "impact": "LOW",
+      "mitigation": ""
+    },
+    {
+      "category": "Supply",
+      "risk": "",
+      "likelihood": "LOW",
+      "impact": "LOW",
+      "mitigation": ""
+    },
+    {
+      "category": "Operational",
+      "risk": "",
+      "likelihood": "LOW",
+      "impact": "LOW",
+      "mitigation": ""
+    },
+    {
+      "category": "Digital",
+      "risk": "",
+      "likelihood": "LOW",
+      "impact": "LOW",
+      "mitigation": ""
+    },
+    {
+      "category": "Seasonal",
+      "risk": "",
+      "likelihood": "LOW",
+      "impact": "LOW",
+      "mitigation": ""
+    }
+  ],
+  "highest_priority_risks": []
+}
