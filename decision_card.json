@@ -1,0 +1,68 @@
+{
+  "title": "Rural Venture Decision Card",
+  "entrepreneur_context": {
+    "name": "",
+    "location": "",
+    "business": "",
+    "entrepreneur_type": "",
+    "resources": "",
+    "language": "",
+    "digital_access": ""
+  },
+  "customer": {
+    "target_customer": "",
+    "customer_problem": "",
+    "reason_to_buy": ""
+  },
+  "evidence": {
+    "entrepreneur_facts": [],
+    "verified_external_information": [],
+    "assumptions": [],
+    "calculations": [],
+    "missing_evidence": []
+  },
+  "economics": {
+    "selling_price": 0,
+    "raw_material_cost": 0,
+    "labour_cost": 0,
+    "packaging_cost": 0,
+    "transport_cost": 0,
+    "storage_cost": 0,
+    "spoilage_cost": 0,
+    "commission_cost": 0,
+    "other_cost": 0,
+    "total_cost": 0,
+    "contribution": 0,
+    "margin_percentage": 0
+  },
+  "break_even": {
+    "monthly_fixed_cost": 0,
+    "break_even_units": 0,
+    "break_even_revenue": 0
+  },
+  "sales_channel": {
+    "recommended_channel": "",
+    "reason": ""
+  },
+  "risks": [],
+  "decision": {
+    "recommendation": "",
+    "allowed_values": [
+      "PROCEED",
+      "PILOT",
+      "MODIFY",
+      "COLLABORATE",
+      "TEST FURTHER",
+      "PAUSE"
+    ],
+    "confidence": "",
+    "reasoning": []
+  },
+  "thirty_day_plan": {
+    "week_1": [],
+    "week_2": [],
+    "week_3": [],
+    "week_4": [],
+    "most_important_next_action": ""
+  }
+}
