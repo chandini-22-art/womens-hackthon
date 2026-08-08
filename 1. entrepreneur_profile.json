@@ -1,0 +1,27 @@
+{
+  "app": "Rural Venture Navigator for Women Entrepreneurs",
+  "widget": "Entrepreneur Profile and Product Idea",
+  "fields": {
+    "entrepreneur_name": "",
+    "location": {
+      "village": "",
+      "district": "",
+      "state": "",
+      "country": "India"
+    },
+    "business_idea": "",
+    "primary_sales_channel": "",
+    "preferred_language_mode": "",
+    "entrepreneur_type": "",
+    "available_resources": "",
+    "digital_access": "",
+    "business_stage": "",
+    "current_income_pattern": "",
+    "available_working_hours": ""
+  },
+  "output": {
+    "opportunity_statement": "",
+    "business_stage": "",
+    "missing_information": []
+  }
+}
